@@ -1,0 +1,10 @@
+Daniel Hodgson
+Assignment 4
+djh96
+https://github.com/djh96/Assignment4.git
+Ben Pratt
+Tuesday 10:00 AM
+04/13/2016
+Yes program compiles
+No known errors
+When I pushed Assig4.java to GitHub, it messed up a lot of the indentation of comments and statements, so it looks messier than it should.
