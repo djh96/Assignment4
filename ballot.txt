@@ -1,0 +1,5 @@
+4
+12345:Best Pittsburgh Team:Pirates,Steelers,Penguins,Panthers
+54321:Worst Pittsburgh Team:Pirates,Steelers,Penguins,Panthers
+32415:Best CS Assignment:Bookstore,Blackjack,Quiz,Vote
+51423:Worst CS Assignment:Bookstore,Blackjack,Quiz,Vote
